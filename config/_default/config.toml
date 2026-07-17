@@ -1,7 +1,7 @@
 # Change baseurl before deploy
-baseurl      = "https://liu-houliang.github.io/hugo-stack-starter/"
+baseurl      = "https://WTUJNG.github.io/"
 languageCode = "zh-cn"
-title        = "Hugo Theme Stack Starter Template"
+title        = "算法学习日记"
 
 # Set default language
 defaultContentLanguage = "zh"
